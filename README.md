@@ -1,5 +1,3 @@
-# Internet_Programming_Project
-
 說明：
 ---
 此為2017年選修【網際網路程式設計】所做的期末專案，本專案詳細內容請參考[Final_Project.pdf](https://github.com/kikihayashi/Internet_Programming_Project/blob/master/Final_Project.pdf) \
